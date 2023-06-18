@@ -1,4 +1,5 @@
 first
+second
 Twenty ships with Norsemen braves
 Riding the northern wind
 They left their shores at early dawn
